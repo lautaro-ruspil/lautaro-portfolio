@@ -1,0 +1,23 @@
+/* Google Fonts loaded via <link> in index.html for non-blocking render */
+
+@import "tailwindcss";
+
+@theme {
+    --font-sans: "DM Sans", sans-serif;
+    --font-display: "Syne", sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+::selection {
+    background: #34d399;
+    color: #080808;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: #0a0a0a; }
+::-webkit-scrollbar-thumb { background: #2a2a2a; border-radius: 2px; }
+::-webkit-scrollbar-thumb:hover { background: #34d399; }

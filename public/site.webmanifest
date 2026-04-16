@@ -1,0 +1,27 @@
+{
+  "name": "Lautaro Ruspil · Full Stack Developer",
+  "short_name": "<LR />",
+  "description": "Portfolio de Lautaro Ruspil — Full Stack Developer con foco en frontend.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#34d399",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
